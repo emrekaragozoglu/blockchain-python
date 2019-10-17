@@ -1,0 +1,8 @@
+py2p
+secp256k1
+requests
+Flask>=1.0.2
+jsonschema
+uritools
+argparse
+uuid
