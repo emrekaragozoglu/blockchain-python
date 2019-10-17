@@ -102,7 +102,7 @@ python node_multilayer_multimaster.py master 20000 30000
 
 **And, initialize other nodes on other machines in the cluster (choose the network by choosing the port among the ports available on master)**
 ```shell
-python node_multilayer_multimaster.py slave <master_ip_2> <master_ip_2> <port_no_1 OR port_no_2>
+python node_multilayer_multimaster.py slave <master_ip_1> <master_ip_2> <port_no_1 OR port_no_2>
 ```
 
 Example:
